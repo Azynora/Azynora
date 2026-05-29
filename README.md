@@ -17,7 +17,7 @@
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-16405C?style=for-the-badge&logo=googlechrome&logoColor=9BE7FF)](https://azyprofile.netlify.app/)
-[![Facebook](https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=FFFFFF)](https://www.facebook.com/infotrieuvy)
+[![Facebook](https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=FFFFFF)](https://www.facebook.com/azynora.vn)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/azynora04)
 [![Gmail](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=FFFFFF)](mailto:trieuvy9198@gmail.com)
 
