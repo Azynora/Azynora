@@ -124,17 +124,6 @@ A controlled space for testing visibility, logs, service behavior, and incident 
 
 ---
 
-## <img src="https://cdn-icons-png.flaticon.com/512/6295/6295415.png" width="24" /> Telemetry
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Azynora&show_icons=true&theme=transparent&title_color=00F7FF&text_color=9FB3C8&icon_color=7EE787&border_color=1F2A38)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Azynora&layout=compact&theme=transparent&title_color=00F7FF&text_color=9FB3C8&border_color=1F2A38)
-
-</div>
-
----
-
 ## <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="24" /> Final Note
 
 ```text
